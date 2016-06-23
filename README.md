@@ -1,1 +1,1 @@
-# Andela-Lite-Exercises
+# Python Algorithms
